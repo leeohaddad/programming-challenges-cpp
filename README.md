@@ -27,4 +27,5 @@ Programming Challenges Subject
 ### Problems Solved in Round 2:  
 * Timus 1005 - Stone Pile  
 * Timus 1122 - Game  
-* Timus 1607 - Taxi
+* Timus 1607 - Taxi  
+* Timus 1787 - Turn For Mega
