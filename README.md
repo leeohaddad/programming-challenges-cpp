@@ -25,4 +25,6 @@ Programming Challenges Subject
 * Timus 1225 - Flags  
 
 ### Problems Solved in Round 2:  
-* Timus 1005 - Stone Pile
+* Timus 1005 - Stone Pile  
+* Timus 1122 - Game  
+* Timus 1607 - Taxi
