@@ -23,5 +23,6 @@ Programming Challenges Subject
 * UVa 11686 - Pick Up Sticks  
 * Timus 1049 - Brave Balloonists  
 * Timus 1225 - Flags  
+
 ### Problems Solved in Round 2:  
 * Timus 1005 - Stone Pile
