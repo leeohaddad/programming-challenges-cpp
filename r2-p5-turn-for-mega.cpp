@@ -2,7 +2,7 @@
 /**                                                           **/
 /**   Leonardo Haddad                           nº 7295361    **/
 /**   Desafios de Programação - Round 2    Professora Cris    **/
-/**   Problema 6 - Turn for MEGA                Curso: BCC    **/
+/**   Problema 5 - Turn for MEGA                Curso: BCC    **/
 /**                                                           **/
 /***************************************************************/
 
@@ -41,7 +41,7 @@ int main () {
     int arg, cars;
 
 	#ifdef debug_on
-		printf("\n| P6 - Turn for MEGA |\n");
+		printf("\n| P5 - Turn for MEGA |\n");
 	#endif
 
     /* read program arguments */

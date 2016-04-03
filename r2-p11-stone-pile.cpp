@@ -2,7 +2,7 @@
 /**                                                           **/
 /**   Leonardo Haddad                           nº 7295361    **/
 /**   Desafios de Programação - Round 2    Professora Cris    **/
-/**   Problema 1 - Stone Pile                   Curso: BCC    **/
+/**   Problema 11 - Stone Pile                   Curso: BCC    **/
 /**                                                           **/
 /***************************************************************/
 
@@ -59,7 +59,7 @@ int main () {
     long arg; /* halfSum, firstPile=0; */
 
 	#ifdef debug_on
-		printf("\n| P1 - Stone Pile |\n");
+		printf("\n| P11 - Stone Pile |\n");
 	#endif
 
     /* read program arguments */

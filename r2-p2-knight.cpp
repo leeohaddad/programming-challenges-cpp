@@ -2,7 +2,7 @@
 /**                                                           **/
 /**   Leonardo Haddad                           nº 7295361    **/
 /**   Desafios de Programação - Round 2    Professora Cris    **/
-/**   Problema 3 - Knight                       Curso: BCC    **/
+/**   Problema 2 - Knight                       Curso: BCC    **/
 /**                                                           **/
 /***************************************************************/
 
@@ -68,7 +68,7 @@ bool tryToVisit(int i, int j) {
 int main () {
 
 	#ifdef debug_on
-		printf("\n| P3 - Knight |\n");
+		printf("\n| P2 - Knight |\n");
 	#endif
 
     /* read program arguments */

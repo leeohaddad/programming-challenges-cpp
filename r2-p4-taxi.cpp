@@ -2,7 +2,7 @@
 /**                                                           **/
 /**   Leonardo Haddad                           nº 7295361    **/
 /**   Desafios de Programação - Round 2    Professora Cris    **/
-/**   Problema 5 - Taxi                         Curso: BCC    **/
+/**   Problema 4 - Taxi                         Curso: BCC    **/
 /**                                                           **/
 /***************************************************************/
 
@@ -30,7 +30,7 @@ void printArgs () {
 int main () {
 
 	#ifdef debug_on
-		printf("\n| P5 - Taxi |\n");
+		printf("\n| P4 - Taxi |\n");
 	#endif
 
     /* read program arguments */

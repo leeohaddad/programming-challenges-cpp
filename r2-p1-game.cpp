@@ -2,7 +2,7 @@
 /**                                                           **/
 /**   Leonardo Haddad                           nº 7295361    **/
 /**   Desafios de Programação - Round 2    Professora Cris    **/
-/**   Problema 2 - Game                         Curso: BCC    **/
+/**   Problema 1 - Game                         Curso: BCC    **/
 /**                                                           **/
 /***************************************************************/
 
@@ -131,7 +131,7 @@ int main () {
     int moveDescription[MOVE_RANGE][MOVE_RANGE];
 
 	#ifdef debug_on
-		printf("\n| P2 - Game |\n");
+		printf("\n| P1 - Game |\n");
 	#endif
 
     /* read program arguments */

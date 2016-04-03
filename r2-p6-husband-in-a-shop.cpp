@@ -2,7 +2,7 @@
 /**                                                           **/
 /**   Leonardo Haddad                           nº 7295361    **/
 /**   Desafios de Programação - Round 2    Professora Cris    **/
-/**   Problema 7 - Husband in a Shop            Curso: BCC    **/
+/**   Problema 6 - Husband in a Shop            Curso: BCC    **/
 /**                                                           **/
 /***************************************************************/
 
@@ -68,7 +68,7 @@ int main () {
     pair<string,int> currentHusband, husbandBuffer;
 
 	#ifdef debug_on
-		printf("\n| P7 - Husband in a Shop |\n");
+		printf("\n| P6 - Husband in a Shop |\n");
 	#endif
 
     /* read program arguments */
